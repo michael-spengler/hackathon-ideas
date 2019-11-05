@@ -16,6 +16,7 @@
 1. Explore [Webcomponents](https://www.webcomponents.org/)
 2. Leverage [Progressive Web Apps](https://www.youtube.com/watch?v=othhfZ0mGjU)
 3. Explore [Kotlin](https://kotlinlang.org/docs/reference/)
+4. Explore [Kyma](https://kyma-project.io/)
 
 ## Distributed Apps & Smart Contracts
 1. [Ethereum Based](https://www.youtube.com/watch?v=coQ5dg8wM2o)
