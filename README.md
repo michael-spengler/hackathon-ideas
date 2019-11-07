@@ -23,11 +23,11 @@
 
 
 # Concrete Challenges
-## Implement an own Crypto Currency on the Ethereum Blockchain
-## Option 1: Create a Tobi Service - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
-## Option 2: Create a CAI Bot - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
-## Option 3: Create a Browser Extension - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
-## Option 4: Improve DHBW Richie - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs --> Important: IP / Legal Questions should be clarified first --> Open Sourc Ravi NLP
+1. Implement an own Crypto Currency on the Ethereum Blockchain
+2. Implement NLP based Service: Create a Tobi Service - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
+3. Implement NLP based Service: Create a CAI Bot - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
+4. Implement NLP based Service: Create a Browser Extension - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
+5. Implement NLP based Service: Improve DHBW Richie - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs --> Important: IP / Legal Questions should be clarified first --> Open Sourc Ravi NLP
 
 
 
