@@ -21,3 +21,14 @@
 ## Distributed Apps & Smart Contracts
 1. [Ethereum Based](https://www.youtube.com/watch?v=coQ5dg8wM2o)
 
+
+# Concrete Challenges
+## Implement an own Crypto Currency on the Ethereum Blockchain
+## Option 1: Create a Tobi Service - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
+## Option 2: Create a CAI Bot - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
+## Option 3: Create a Browser Extension - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
+## Option 4: Improve DHBW Richie - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs --> Important: IP / Legal Questions should be clarified first --> Open Sourc Ravi NLP
+
+
+
+
