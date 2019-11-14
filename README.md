@@ -7,7 +7,7 @@
 1. Explore https://github.com/cla-assistant/cla-assistant
 
 ## Kubernetes
-1. Explore and leverage https://github.com/gardener/gardener  
+1. Explore, leverage / improve https://github.com/gardener/gardener  
 
 ## Web Development Businesses 
 1. Explore creation of a "digital company" https://officeflucht.de/estland-e-residency/ - via https://apply.gov.ee/
@@ -21,14 +21,16 @@
 ## Distributed Apps & Smart Contracts
 1. [Ethereum Based](https://www.youtube.com/watch?v=coQ5dg8wM2o)
 
+## Sessions & Tech Talks on Demand
+There are many Infosessions, Techtalk Sessions and other events with a relatively low number of participants. This can be frustrating for the organizers and Speakers. A solution approach would be to have an intelligent "Sessions-On-Demand Service" in which organizers can set a minimum number of participants. If participants cancel their reservation they loose some "Sessions-On-Demand" Coins which is the currency behind the "Sessions-On-Demand-Service".   
+
 
 # Concrete Challenges
 1. Implement an own Crypto Currency on the Ethereum Blockchain
 2. Implement NLP based Service: Create a Tobi Service - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
 3. Implement NLP based Service: Create a CAI Bot - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
 4. Implement NLP based Service: Create a Browser Extension - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
-5. Implement NLP based Service: Improve DHBW Richie - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs --> Important: IP / Legal Questions should be clarified first --> Open Sourc Ravi NLP
-
+5. Implement a "Sessions On Demand Service" [details](t)
 
 
 
