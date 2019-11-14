@@ -26,11 +26,9 @@ There are many Infosessions, Techtalk Sessions and other events with a relativel
 
 
 # Concrete Challenges
-1. Implement an own Crypto Currency on the Ethereum Blockchain
-2. Implement NLP based Service: Create a Tobi Service - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
-3. Implement NLP based Service: Create a CAI Bot - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
-4. Implement NLP based Service: Create a Browser Extension - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs
-5. Implement a "Sessions On Demand Service" - [see details](https://github.com/michael-spengler/hackathon-ideas/blob/master/README.md#sessions--tech-talks-on-demand)
+1. Implement a "Sessions On Demand Service" - [see details](https://github.com/michael-spengler/hackathon-ideas/blob/master/README.md#sessions--tech-talks-on-demand)  
+2. Implement NLP based Service: Create a CAI Bot - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs  
+3. Implement an own Crypto Currency on the Ethereum Blockchain  
 
 
 
