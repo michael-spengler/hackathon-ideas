@@ -1,3 +1,11 @@
+# Concrete Challenges  
+
+1. Implement a "Sessions On Demand Service" - [see details](https://github.com/michael-spengler/hackathon-ideas/blob/master/README.md#sessions--tech-talks-on-demand)  
+2. Implement NLP based Service: Create a CAI Bot - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs  
+3. Implement an own Crypto Currency on the Ethereum Blockchain  
+
+
+
 # Ideas
 
 ## Chatbots
@@ -23,12 +31,6 @@
 
 ## Sessions & Tech Talks on Demand
 There are many Infosessions, Techtalk Sessions and other events with a relatively low number of participants. This can be frustrating for the organizers and Speakers. A solution approach would be to have an intelligent "Sessions-On-Demand Service" in which organizers can set a minimum number of participants. If participants cancel their reservation they loose some "Sessions-On-Demand" Coins which is the currency behind the "Sessions-On-Demand-Service".   
-
-
-# Concrete Challenges
-1. Implement a "Sessions On Demand Service" - [see details](https://github.com/michael-spengler/hackathon-ideas/blob/master/README.md#sessions--tech-talks-on-demand)  
-2. Implement NLP based Service: Create a CAI Bot - leveraging Tobi Word2Vec Model for NLP via the corresponding APIs  
-3. Implement an own Crypto Currency on the Ethereum Blockchain  
 
 
 
