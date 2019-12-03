@@ -2,7 +2,7 @@
 # Telegram 
 Michaels Number: 0049 151 67 83 38 69
 
-# Agenda . 
+# Agenda  
 **Day 1**  
 09:00 Welcome - Michael Spindler  
 09:10 Presentation of Topic Proposals - Michael Spengler  
