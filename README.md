@@ -1,3 +1,33 @@
+
+# Telegram 
+Michaels Number: 0049 151 67 83 38 69
+
+# Agenda
+**Day 1**
+09:00 Welcome - Michael Spindler
+09:10 Presentation of Topic Proposals - Michael Spengler
+09:30 Team creation & Kick off 
+12:30 Lunchtime 
+14:00 All you can code
+17:00 Pizza- or Burger- time
+
+**Day 2**
+09:00 Short Sync to check if there are any organizational improvement proposals
+09:10 All you can code
+11:30 Lunchtime 
+13:30 All you can code
+17:00 Pizza- or Burger- time
+
+**Day 3**
+09:00 Short Sync to check if there are any organizational improvement proposals
+09:10 All you can code
+11:30 Lunchtime 
+13:30 All you can code
+17:00 Pizza- or Burger- time
+
+
+
+
 # Concrete Challenges  
 
 1. Implement a "Sessions On Demand Service" - [see details](https://github.com/michael-spengler/hackathon-ideas/blob/master/README.md#sessions--tech-talks-on-demand)  
